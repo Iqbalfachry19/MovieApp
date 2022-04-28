@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="rating">Rating: </string>
+    <string name="something_error">Something Error</string>
+    <string name="overview">Overview</string>
+    <string name="image">Image</string>
+</resources>
